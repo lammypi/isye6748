@@ -1,8 +1,8 @@
 # Network Psychometrics of Customer Satisfaction Survey Data     
 __Georgia Tech Applied Analytics Practicum, Spring 2026__
 
-[!NOTE]
-Files contained in this repository will only be for setting up the analysis. Actual analysis files will not be included because of employer restrictions.
+[!IMPORTANT]
+Files contained in this repository will only be for setting up the analysis. Actual analysis files will not be included due to employer restrictions.
 
 Within user experience (UX) research, mental models are most often represented as maps using nodes to denote concepts and qualitative markers of strength and directionality as edges between them. In applied psychology studies, such as learning psychology, mental models of complex concepts (e.g., learning to drive a car) are explored via network modeling. However, network models for UX-specific concepts like customer satisfaction is not a common modeling approach, but whose potential is worth exploring.
 
